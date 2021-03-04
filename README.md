@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+This app has been created as a learning process.
+Details can be found on [Udemy](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
